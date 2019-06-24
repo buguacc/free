@@ -1,6 +1,6 @@
 ## 免费可用代理
 
-- [那比云](https://www.nabiyunba.com)
+- [那比云](https://dwz.one/6BLvXU)
 注册即可免费使用30天，无须验证任何信息，不限流量。
 
 ![30days.png](https://i.loli.net/2019/06/24/5d1073ddcbb8b83902.png)
