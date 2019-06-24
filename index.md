@@ -1,37 +1,22 @@
-## Welcome to GitHub Pages
+## 免费可用代理
 
-You can use the [editor on GitHub](https://github.com/buguacc/free/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+- [那比云](https://www.nabiyunba.com)
+注册即可免费使用30天，无须验证任何信息，不限流量。
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+![30days.png](https://i.loli.net/2019/06/24/5d1073ddcbb8b83902.png)
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### 使用方法
 
-```markdown
-Syntax highlighted code block
+- Windows使用
+打开思科官网下载[anyconnect](https://cisco-anyconnect-secure-mobility-client.softonic.cn/)客户端，进行安装，服务器地址: ip.fmaoq.xyz ,进行连接，使用前面注册的那比云账号登录，连接成功获取到线路列表，断开选择节点连接即可。
 
-# Header 1
-## Header 2
-### Header 3
+- Android使用
+应用市场或第三方应用市场搜索**anyconnect**软件，安装按windows流程操作即可。
 
-- Bulleted
-- List
+- IOS使用
+AppStore搜索**anyconnect**软件，安装按windows流程操作即可。
 
-1. Numbered
-2. List
+### 如果不会
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/buguacc/free/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+点击这里联系[客服](https://duan.cf/qq)求助。
